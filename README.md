@@ -1,5 +1,5 @@
 # Plants vs. Zombies Tycoon Code Samples
-In this repository contains some key pieces of code for my very first programming project. It's not quite possible to simply migrate the codebase to GitHub since a lot of functionality and scripting is integrated into the game engine, such as game instances and objects. Having said that, I tried to showcase some key pieces of code that I was able to learn to write that the game revolves around.
+In this repository contains some key pieces of code for my very first programming project. It's not quite possible to simply migrate the codebase to GitHub since a lot of functionality and scripting is integrated into the game engine, such as game instances and objects. Having said that, I still wanted to showcase some key pieces of code that I was able to learn to write that the game revolves around.
 
 *NOTE: This code is not meant to run without the Roblox engine. These are only snippets of the codebase.*
 
