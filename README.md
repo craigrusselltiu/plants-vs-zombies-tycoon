@@ -10,10 +10,11 @@ In this repository contains some snippets of code for my very first programming 
 -   purchasetycoon.lua - Handles purchasing a new tycoon
 -   savescript.lua - Loads player data from data store upon joining game, and saves player data upon exit
 
-## What I learned
-- Programming Basics
+## What I Learned
+- Programming basics
 - Variables
-- For Loops
-- While Loops
-- Event Handling
-- Data Store Interaction
+- For loops
+- While loops
+- Event handling
+- Database/data store interaction
+- Among other things!
