@@ -11,7 +11,9 @@ In this repository contains some snippets of code for my very first programming 
 -   savescript.lua - Loads player data from data store upon joining game, and saves player data upon exit
 
 ## What I learned
+- Programming Basics
 - Variables
 - For Loops
 - While Loops
 - Event Handling
+- Data Store Interaction
