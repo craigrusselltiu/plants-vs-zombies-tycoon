@@ -9,3 +9,9 @@ In this repository contains some snippets of code for my very first programming 
 -   timecycle.lua - Handles time cycle, with days lasting longer than nights
 -   purchasetycoon.lua - Handles purchasing a new tycoon
 -   savescript.lua - Loads player data from data store upon joining game, and saves player data upon exit
+
+## What I learned
+- Variables
+- For Loops
+- While Loops
+- Event Handling
