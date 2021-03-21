@@ -3,6 +3,8 @@ In this repository contains some snippets of code for my very first programming 
 
 *NOTE: This code is not meant to run without the Roblox engine. These are only snippets of the codebase.*
 
+Game Link: https://www.roblox.com/games/25935872/Plants-vs-Zombies-Tycoon
+
 ## Script Descriptions
 -   leaderboard.lua - Tracks player currency
 -   products.lua - Handles microtransactions involving real transactions, interacting with the marketplace service
