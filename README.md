@@ -3,7 +3,7 @@ In this repository contains some snippets of code for my very first programming 
 
 *NOTE: This code is not meant to run without the Roblox engine. These are only snippets of the codebase.*
 
-Game Link: https://www.roblox.com/games/25935872/Plants-vs-Zombies-Tycoon
+*NOTE 2: After being played by 2.2 million players, the game has now been taken down as requested by EA Games.*
 
 ## Script Descriptions
 -   leaderboard.lua - Tracks player currency
